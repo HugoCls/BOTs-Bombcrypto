@@ -1,3 +1,0 @@
-change loop with sleeps only if they find something
-
-zz count only half accs each times

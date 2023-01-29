@@ -1,2 +1,0 @@
-add randomness on cs.move
-sleep randomly added

@@ -101,11 +101,7 @@ def mettre_arriere_plan(windows):
         (x,y)=window.size
         window.resizeTo(x,y)
         sleep(0.1)
-    #pywinauto.application.Application().connect(handle=window._hWnd).top_window().Activatectivate()
-    """
-    if window.isActive == False:
-        pywinauto.application.Application().connect(handle=window._hWnd).top_window().minimize()
-    """
+        
 def fenetre_premier_plan():
     window = win32gui.GetForegroundWindow()
     active_window_name = win32gui.GetWindowText(window)

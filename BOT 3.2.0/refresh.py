@@ -12,24 +12,7 @@ def auto_refresh():
             cs.sleep(0.5)
     while dt.find('treasure hunt'):
         cs.sleep(0.5)
-"""
-def refresh():
-    result=dt.find('ok')
-    if result==True:
-        errors.ADD(2)
-        cs.appuyer(cs.F5)
-        cs.sleep(6)
-        dt.find('connect')
-        cs.sleep(3)
-        if dt.check('busy_fox')==True and dt.check('sign')==False:
-            dt.find('busy_fox')
-            cs.sleep(1.5)
-        dt.find('sign')
-        cs.sleep(2)
-        dt.find('connect')
-        return(True)
-    return(False)
-"""
+
 def F5_all(N):
     for i in range(N):
         dt.find_the_one('chrome_refresh',i)
