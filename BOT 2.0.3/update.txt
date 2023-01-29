@@ -1,0 +1,1 @@
+Change connect/refresh? functions because connexion is slower sometimes

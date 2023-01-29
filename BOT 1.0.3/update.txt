@@ -1,0 +1,1 @@
+add little_team_work function which is a bit longer than simple work

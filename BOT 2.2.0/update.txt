@@ -1,0 +1,3 @@
+added discord bot
+
+added error count

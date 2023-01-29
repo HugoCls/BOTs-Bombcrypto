@@ -1,0 +1,1 @@
+-desktop changes (laggy, needs to change every while in the code: you need to clic the new desktop not to have lags with matchtemplate)
