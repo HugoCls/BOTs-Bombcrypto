@@ -1,0 +1,12 @@
+discord
+autopy
+opencv-python
+numpy
+pillow
+pywin32
+pyautogui
+keyboard
+pynput
+pywinauto
+pygetwindow
+python-vlc
